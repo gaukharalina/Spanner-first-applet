@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Maps Trip Planner Live",
+  "description": " The applet demonstrates live audio streaming and function calling with the Gemini API, specifically integrating with Google Maps for grounding and displaying locations on a 3D map.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
